@@ -91,11 +91,6 @@ Mon objectif : créer des outils concrets (SaaS, marketplaces, dashboards, chatb
   - Université : Université Virtuelle de Côte d’Ivoire (UVCI)  
   - Spécialité : Développement d’Applications et e-Services [18][19]
 
-- **Délégué de projet collectif tuteuré**  
-  - Année académique : 2021–2022 (durant la Licence)  
-  - Université : Université Virtuelle de Côte d’Ivoire (UVCI)  
-  - Spécialité : Développement d’Applications et e-Services  
-  - Contexte : projet de développement d’application web (village d’Allakro, entre autres) [9][10]
 
 ---
 
